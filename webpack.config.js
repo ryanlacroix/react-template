@@ -2,13 +2,13 @@ var config = {
    entry: './client/index.js',
 	
    output: {
-      path:'/home/ryan/Documents/Projects/react-template',    
+      path:'/absolute/path/to/react-template',
       filename: 'bundle.js'
    },
 	
    devServer: {
       contentBase: './client',
-      port: 2406,
+      port: 2112,
       hot: true
    },
 	
