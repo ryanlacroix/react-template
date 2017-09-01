@@ -4,7 +4,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                There is yet insufficient data for a meaningful answer
+                Do the thing
             </div>
         );
     }
